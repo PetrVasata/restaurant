@@ -1,0 +1,14 @@
+D:\Projety\C#\restaurant\restaurant\bin\Debug\restaurant.exe.config
+D:\Projety\C#\restaurant\restaurant\bin\Debug\restaurant.exe
+D:\Projety\C#\restaurant\restaurant\bin\Debug\restaurant.pdb
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.csprojAssemblyReference.cache
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.cache
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.exe
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.pdb
+D:\Projety\C#\restaurant\restaurant\bin\Debug\Newtonsoft.Json.dll
+D:\Projety\C#\restaurant\restaurant\bin\Debug\Newtonsoft.Json.xml
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.csproj.CopyComplete
+D:\Projety\C#\restaurant\restaurant\obj\Debug\restaurant.Edit.resources
